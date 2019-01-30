@@ -118,7 +118,7 @@ public class Send {
         } catch (MQClientException e) {
             e.printStackTrace();
         }
-        System.out.println("Consumer Started.。。。。");
+        System.out.println("Consumer Started.。dev。。。");
     }
 
 }
